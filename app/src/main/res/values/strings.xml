@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gap</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_card_scan">Card Scan</string>
+    <string name="title_text_scan">Text Scan</string>
+    <string name="title_object_scan">Object Scan</string>
+</resources>
